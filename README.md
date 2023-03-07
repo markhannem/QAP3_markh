@@ -1,5 +1,5 @@
-Quantitative Assessment Practice
-Java Practice 
+Quantitative Assessment Practice 3
+Java 
 
 Problem 1: Practicing inheritance hierarchy creating Person, Student, Teacher, CollegeStudent and Demo classes 
 ---
